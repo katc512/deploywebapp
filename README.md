@@ -1,4 +1,4 @@
 #This is an update for the main branch 
 # MyProfile
-This is my personal profile on github to showcase my skills and portfolio online
-[MyProfile] (https://rejreign.github.io/MyProfile/index.html)
+We will be learning how to deploy this web app using either NGINX or Apache2 Webservers on localhost.
+
